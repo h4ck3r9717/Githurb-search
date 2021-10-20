@@ -15,7 +15,7 @@ For now the application has no issue but or any problem
 ## Technologies Used
 This application uses a simple programming languages called Angular..
 ## Support and contact details
-If there is any problem with the applicatin feel free to contact me on shawnnjoga@gmail.com so that i together with my sponsers can make some changes.
+If there is any problem with the applicatin feel free to contact me on shawnnjoga@gmail.com so that i together with my sponsers can make some changes and help one another.
 ### License
 *This application uses MIT lincence which is free.*
 Copyright (c) {2021} **sponserd by Moringa School.**
