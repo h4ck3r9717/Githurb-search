@@ -28,6 +28,12 @@ p {
     align-items: left;
     /*position: sticky;*/
 }
+a{
+    color: red;
+}
+p{
+    color: steelblue;
+}
 
 
 

@@ -26,7 +26,10 @@ td a {
 
 p {
     text-indent: 2rem;
-    font-family: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: whitesmoke;
+    font-size: large;
+    font-weight: 200;
 }
 
 .col-md-12 {

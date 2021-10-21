@@ -1,4 +1,8 @@
 @import "~bootstrap/dist/css/bootstrap.css";
 body{
- color: rgb(241, 171, 171)
+ background-image: url(./images/git.jpeg);
+ background-position: center center;
+ background-size: cover;
+ background-attachment: fixed;
+ opacity: 0.9;
 }

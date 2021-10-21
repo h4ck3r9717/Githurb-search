@@ -1,4 +1,6 @@
-
+form{
+    background-color: saddlebrown;
+}
 
 
 input {
@@ -9,11 +11,12 @@ input {
     box-sizing: border-box;
     margin-top: 6px;
     margin-bottom: 16px;
+    color: red;
 }
 
 
 input[type=submit] {
-    background-color: #056b5b;
+    background-color: red;
     color: white;
     text-align: center;
     /* width: 50%; */
@@ -21,7 +24,7 @@ input[type=submit] {
 
 
 button {
-    background-color: #056b5b;
+    background-color: rgb(35, 35, 92);
     color: white;
     padding: 14px 20px;
     margin: 8px 0;
@@ -34,8 +37,9 @@ button {
 
 
 form {
-    background-color: #f1f1f1;
+    background-color: #9fe4a3;
     padding: 20px;
     width: 100vh;
      /*height: 100%; */
 }
+
