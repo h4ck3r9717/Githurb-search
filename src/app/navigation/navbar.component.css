@@ -15,3 +15,21 @@
     overflow: hidden;
     background-color:blue;
 }
+li{
+    color: blue;
+}
+h1{
+    font-weight: bolder;
+    color: yellow;
+}
+p{
+    color: #ffffcc;
+    text-shadow: 0 0 5px #fff,
+    0 0 10px #fff, 
+    0 0 20px green, 
+    0 0 30px green, 
+    0 0 40px green, 
+    0 0 55px green, 
+    0 0 70px green;
+}
+
